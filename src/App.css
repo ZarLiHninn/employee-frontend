@@ -1,3 +1,15 @@
+@import url(//fonts.googleapis.com/earlyaccess/myanmarsanspro.css);
+@import url(//fonts.googleapis.com/earlyaccess/notosansmyanmar.css);
+@import url(//fonts.googleapis.com/earlyaccess/tharlon.css);
+@import url(https://web.zetamm.com/fonts/1.5.0/css/Pyidaungsu);
+
+/* @font-face { font-family: Pyidaungsu; 
+  src: url('https://web.zetamm.com/fonts/1.5.0/css/Pyidaungsu'); }  */
+
+/* .font-change{
+font-family: 'Pyidaungsu';
+} */
+
 .App {
   text-align: center;
 }
@@ -12,6 +24,14 @@
     animation: App-logo-spin infinite 20s linear;
   }
 }
+
+/* .font-change{
+  font-family: 'Myanmar Sans Pro', sans-serif;
+} */
+/* .font-change{
+  font-family: 'Noto Sans Myanmar', sans-serif;
+  /* font-family: 'Tharlon', sans-serif; */
+/* }  */
 
 .App-header {
   background-color: #282c34;
